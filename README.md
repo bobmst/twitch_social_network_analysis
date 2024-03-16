@@ -21,7 +21,7 @@ Link to the dataset: [SNAP: Network datasets: Wikipedia Article Networks (stanfo
 
 ## Repository Structure
 
-- `twitch_en_network - Copy.ipynb`: The Jupyter Notebook containing the Python code for data preprocessing, network analysis, and community detection.
+- `twitch_en_network.ipynb`: The Jupyter Notebook containing the Python code for data preprocessing, network analysis, and community detection.
 - `data/`: Directory containing the Twitch network dataset files.
 - `result/`: Directory for storing intermediate and final analysis results.
 
